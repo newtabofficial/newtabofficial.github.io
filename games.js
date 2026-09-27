@@ -1,15 +1,15 @@
 
-//https://newtabsquared.github.io/Embed-Failed/
+//https://newtabofficial.github.io/Embed-Failed/
 
 window.PAGES = {
   
   "Drive Mad": { 
-    "url": "https://newtabsquared.github.io/drive-mad/drive-mad-new/",
+    "url": "https://newtabofficial.github.io/drive-mad/drive-mad-new/",
     "cover": "drivemad.png"
   },
 
   "Polytrack": { 
-    "url": "https://newtabsquared.github.io/Polytrack/",
+    "url": "https://newtabofficial.github.io/Polytrack/",
     "cover": "polytrack.png"
   },
   
@@ -27,7 +27,7 @@ window.PAGES = {
     "cover": "cookieclicker.png"
   },
   "Basket Bros": { 
-    "url": "https://newtabsquared.github.io/basketbros/",
+    "url": "https://newtabofficial.github.io/basketbros/",
     "cover": "basketbros.png"
   },
    "Smash Karts": { 
@@ -79,29 +79,29 @@ window.PAGES = {
     "cover": "fishingio.jpg"
   },
   "Moto X3M": { 
-    "url": "https://newtabsquared.github.io/MotoX3M/",
+    "url": "https://newtabofficial.github.io/MotoX3M/",
     "cover": "motox3m.jpg"
     
   },
   "Moto X3M 2": { 
-    "url": "https://newtabsquared.github.io/Moto-X3M-2/",
+    "url": "https://newtabofficial.github.io/Moto-X3M-2/",
     "cover": "motox3m2.png"
   },
   
   "Gunspin": {
-    "url": "https://newtabsquared.github.io/Gunspin/",
+    "url": "https://newtabofficial.github.io/Gunspin/",
     "cover": "gunspin.png"
   },
 
    "Run 3": { 
-    "url": "https://newtabsquared.github.io/Run3/",
+    "url": "https://newtabofficial.github.io/Run3/",
     "ribbon": "Popular",
     "ribbonColor": "#EFBF04",
     "cover": "run3.jpeg"
   },
 
   "Angry Birds": { 
-    "url": "//newtabsquared.github.io/Angry-Birds/",
+    "url": "//newtabofficial.github.io/Angry-Birds/",
     "cover": "angrybirds.png"
   },
 
@@ -121,29 +121,29 @@ window.PAGES = {
   },
   
   "Rocket League 3D": { 
-    "url": "https://newtabsquared.github.io/RL3D/",
+    "url": "https://newtabofficial.github.io/RL3D/",
     "cover": "rocketleague.jpg"
   },
 
   "Color Tunnel 2": { 
-    "url": "https://newtabsquared.github.io/ColorTunnel2/",
+    "url": "https://newtabofficial.github.io/ColorTunnel2/",
     "cover": "colortunnel2.jpeg"
   },
   
   "Slots": { 
-    "url": "https://newtabsquared.github.io/Slot-Machine/"
+    "url": "https://newtabofficial.github.io/Slot-Machine/"
   },
 
   "Block Blast": { 
-    "url": "https://newtabsquared.github.io/Embed-Failed/",
+    "url": "https://newtabofficial.github.io/Embed-Failed/",
     "cover": "blockblast.jpeg"
   },
   "Emoji Crates": { 
-    "url": "https://newtabsquared.github.io/Cases/"
+    "url": "https://newtabofficial.github.io/Cases/"
   },
   
   "Slope 2": { 
-    "url": "https://newtabsquared.github.io/Slope2/",
+    "url": "https://newtabofficial.github.io/Slope2/",
     "cover": "slope2.jpeg"
   },
   
@@ -153,22 +153,22 @@ window.PAGES = {
   },
   
   "Basket Random": { 
-    "url": "https://newtabsquared.github.io/basket-random/",
+    "url": "https://newtabofficial.github.io/basket-random/",
     "cover": "basketrandom.jpeg"
   },
   
   "Eggy Car": { 
-    "url": "https://newtabsquared.github.io/EggyCar/",
+    "url": "https://newtabofficial.github.io/EggyCar/",
     "cover": "eggycar.jpeg"
   },
 
    "Flappy Bird": { 
-    "url": "https://newtabsquared.github.io/flappy-bird/",
+    "url": "https://newtabofficial.github.io/flappy-bird/",
      "cover": "flappybird.png"
   },
   
   "Retro Bowl": { 
-    "url": "https://newtabsquared.github.io/rb/",
+    "url": "https://newtabofficial.github.io/rb/",
     "cover": "retrobowl.jpg"
   }
   
