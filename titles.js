@@ -52,7 +52,7 @@ window.PAGES = {
     "url": "https://script.google.com/macros/s/AKfycbzGxfKS5Uv4MC2N__iKoytC7F5HxVSH3GBPkkqKc0WLf7aIOFkZr3AMsN03VbEPKMGQ/exec"
   },
 
-  "There is No Game": { 
+  "There is No G@me": { 
     "url": "https://script.google.com/a/macros/rsu71.org/s/AKfycbwfUFXy27bYwMfp4xHUVbpN9PSWWzB7bKs-qA01ZYJ7hgeZbvFZgkdjydsAYWrYGPQb/exec",
     "cover": "ting.jpg"
   },
