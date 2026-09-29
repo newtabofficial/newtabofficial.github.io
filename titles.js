@@ -1,15 +1,15 @@
 
-//https://newtabofficial.github.io/Embed-Failed/
+//https://reallycomplexmath.github.io/Embed-Failed/
 
 window.PAGES = {
   
   "Drive Mad": { 
-    "url": "https://newtabofficial.github.io/drive-mad/drive-mad-new/",
+    "url": "https://reallycomplexmath.github.io/drive-mad/drive-mad-new/",
     "cover": "drivemad.png"
   },
 
   "Polytrack": { 
-    "url": "https://newtabofficial.github.io/Polytrack/",
+    "url": "https://reallycomplexmath.github.io/Polytrack/",
     "cover": "polytrack.png"
   },
   
@@ -27,7 +27,7 @@ window.PAGES = {
     "cover": "cookieclicker.png"
   },
   "Basket Bros": { 
-    "url": "https://newtabofficial.github.io/basketbros/",
+    "url": "https://reallycomplexmath.github.io/basketbros/",
     "cover": "basketbros.png"
   },
    "Smash Karts": { 
@@ -79,29 +79,29 @@ window.PAGES = {
     "cover": "fishingio.jpg"
   },
   "Moto X3M": { 
-    "url": "https://newtabofficial.github.io/MotoX3M/",
+    "url": "https://reallycomplexmath.github.io/MotoX3M/",
     "cover": "motox3m.jpg"
     
   },
   "Moto X3M 2": { 
-    "url": "https://newtabofficial.github.io/Moto-X3M-2/",
+    "url": "https://reallycomplexmath.github.io/Moto-X3M-2/",
     "cover": "motox3m2.png"
   },
   
   "Gunspin": {
-    "url": "https://newtabofficial.github.io/Gunspin/",
+    "url": "https://reallycomplexmath.github.io/Gunspin/",
     "cover": "gunspin.png"
   },
 
    "Run 3": { 
-    "url": "https://newtabofficial.github.io/Run3/",
+    "url": "https://reallycomplexmath.github.io/Run3/",
     "ribbon": "Popular",
     "ribbonColor": "#EFBF04",
     "cover": "run3.jpeg"
   },
 
   "Angry Birds": { 
-    "url": "//newtabofficial.github.io/Angry-Birds/",
+    "url": "//reallycomplexmath.github.io/Angry-Birds/",
     "cover": "angrybirds.png"
   },
 
@@ -121,29 +121,29 @@ window.PAGES = {
   },
   
   "Rocket League 3D": { 
-    "url": "https://newtabofficial.github.io/RL3D/",
+    "url": "https://reallycomplexmath.github.io/RL3D/",
     "cover": "rocketleague.jpg"
   },
 
   "Color Tunnel 2": { 
-    "url": "https://newtabofficial.github.io/ColorTunnel2/",
+    "url": "https://reallycomplexmath.github.io/ColorTunnel2/",
     "cover": "colortunnel2.jpeg"
   },
   
   "Slots": { 
-    "url": "https://newtabofficial.github.io/Slot-Machine/"
+    "url": "https://reallycomplexmath.github.io/Slot-Machine/"
   },
 
   "Block Blast": { 
-    "url": "https://newtabofficial.github.io/Embed-Failed/",
+    "url": "https://reallycomplexmath.github.io/Embed-Failed/",
     "cover": "blockblast.jpeg"
   },
   "Emoji Crates": { 
-    "url": "https://newtabofficial.github.io/Cases/"
+    "url": "https://reallycomplexmath.github.io/Cases/"
   },
   
   "Slope 2": { 
-    "url": "https://newtabofficial.github.io/Slope2/",
+    "url": "https://reallycomplexmath.github.io/Slope2/",
     "cover": "slope2.jpeg"
   },
   
@@ -153,22 +153,22 @@ window.PAGES = {
   },
   
   "Basket Random": { 
-    "url": "https://newtabofficial.github.io/basket-random/",
+    "url": "https://reallycomplexmath.github.io/basket-random/",
     "cover": "basketrandom.jpeg"
   },
   
   "Eggy Car": { 
-    "url": "https://newtabofficial.github.io/EggyCar/",
+    "url": "https://reallycomplexmath.github.io/EggyCar/",
     "cover": "eggycar.jpeg"
   },
 
    "Flappy Bird": { 
-    "url": "https://newtabofficial.github.io/flappy-bird/",
+    "url": "https://reallycomplexmath.github.io/flappy-bird/",
      "cover": "flappybird.png"
   },
   
   "Retro Bowl": { 
-    "url": "https://newtabofficial.github.io/rb/",
+    "url": "https://reallycomplexmath.github.io/rb/",
     "cover": "retrobowl.jpg"
   }
   
